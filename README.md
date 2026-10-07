@@ -13,4 +13,4 @@ Then:
 2. In **Settings → Answers**, add your OpenAI API key (and Groq and TypeSafe keys for automatic answers).
 3. Click **Start** and allow microphone (and, on Mac, screen and system audio) access when asked.
 
-On Mac, clueless updates itself: new versions download in the background and install the next time you quit. On Windows, download and run the new installer from this page when a new version is announced.
+On Mac, clueless updates itself: new versions download in the background and install the next time you quit. On Windows, clueless shows **Version … available** in its top bar when there's a new version; click it, then download and run the new installer from this page.
